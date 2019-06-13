@@ -6,6 +6,5 @@ An iOS app of a simple audio player
 ![Alt text](/pictures/home.png?raw=true)
 
 ## Concepts
--AVFoundation
--AVAudioPlayer
-
+- AVFoundation
+- AVAudioPlayer
